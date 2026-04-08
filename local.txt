@@ -1,3 +1,7 @@
 local
+<<<<<<< HEAD
 online change
 2 onl888
+=======
+added local
+>>>>>>> d843099 (localy change)
